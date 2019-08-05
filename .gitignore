@@ -1,0 +1,8 @@
+node_modules/
+private/
+build/
+.grunt
+*.tgz
+*.zip
+.env
+.env.test
