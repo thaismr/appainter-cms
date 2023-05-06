@@ -39,7 +39,7 @@
     "nodemailer": "^6.6.1",
     "passport": "^0.6.0",
     "passport-local": "^1.0.0",
-    "postgraphile": "^4.4.1",
+    "postgraphile": "^4.13.0",
     "react": "^16.8.6",
     "react-apollo": "^2.5.8",
     "react-dom": "^16.8.6",
