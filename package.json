@@ -36,7 +36,7 @@
     "graphql": "^14.4.2",
     "graphql-tag": "^2.10.1",
     "helmet": "^3.23.3",
-    "nodemailer": "^6.6.1",
+    "nodemailer": "^7.0.7",
     "passport": "^0.6.0",
     "passport-local": "^1.0.0",
     "postgraphile": "^4.13.0",
