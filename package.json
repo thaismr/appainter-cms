@@ -56,6 +56,6 @@
     "nodemon": "^3.1.10",
     "webpack": "^4.37.0",
     "webpack-dev-middleware": "^3.7.0",
-    "webpack-dev-server": "^4.11.1"
+    "webpack-dev-server": "^5.2.1"
   }
 }
